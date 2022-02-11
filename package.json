@@ -1,8 +1,8 @@
 {
-  "name": "chimpy-info-api",
+  "name": "bigswap-info-api",
   "version": "1.0.0",
-  "description": "Serverless API implementation for ChimpySwap on-chain data query.",
-  "author": "ChimpySwap",
+  "description": "Serverless API implementation for BigSwap on-chain data query.",
+  "author": "BigSwap",
   "license": "MIT",
   "scripts": {
     "format:check": "prettier --check '*/**/*.{js,ts}'",
