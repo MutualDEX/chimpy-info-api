@@ -1,10 +1,10 @@
 {
-  "name": "ChimpySwap Exchange LITE",
+  "name": "BigSwap Exchange LITE",
   "schemaPath": "schema.graphql",
   "extensions": {
     "endpoints": {
       "ChimpySwap Exchange": {
-        "url": "https://thegraph.com/explorer/subgraph/chimpyswap/exchange",
+        "url": "https://thegraph.com/explorer/subgraph/bigswap/exchange",
         "headers": {
           "user-agent": "JS GraphQL"
         },
